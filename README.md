@@ -10,11 +10,11 @@ This project demonstrates a EIP712 example code. In the project, there is a cont
 
 Try running some of the following tasks:
 
-###installing the project dependencies  
+### installing the project dependencies  
 `npm install`
 
-###compiling the project contracts  
+### compiling the project contracts  
 `npm hardhat compile`
 
-###running the test cases  
+### running the test cases  
 `npx hardhat test`

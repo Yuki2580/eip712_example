@@ -1,0 +1,28 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-ignition": "^0.15.1",
+    "@nomicfoundation/hardhat-ignition-viem": "^0.15.1",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.6",
+    "@nomicfoundation/hardhat-viem": "^2.0.1",
+    "@nomicfoundation/ignition-core": "^0.15.1",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@types/chai": "^4.3.14",
+    "@types/chai-as-promised": "^7.1.8",
+    "@types/mocha": "^10.0.6",
+    "chai": "^4.4.1",
+    "hardhat": "^2.22.3",
+    "hardhat-gas-reporter": "^1.0.10",
+    "solidity-coverage": "^0.8.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "viem": "^2.9.23"
+  },
+  "dependencies": {
+    "ethers": "^6.12.0"
+  }
+}
